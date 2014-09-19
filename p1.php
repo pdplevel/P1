@@ -40,17 +40,17 @@
 
     <h1>Xing Xin <br> Dynamic Web Apps Portfolio</h1>
 
-    <img src='http://api.randomuser.me/portraits/women/15.jpg' alt='Xing Xin'>
+    <img src='http://i.imgur.com/SHYX06E.jpg' alt='Xing Xin'>
 
-    <h3>Project 2 Title</h3>
+    <h3>Project 2 Placeholder</h3>
     View: [link]
     Github: [link]
 
-    <h3>Project 3 Title</h3>
+    <h3>Project 3 Placeholder</h3>
     View: [link]
     Github: [link]
 
-    <h3>Project 4 Title</h3>
+    <h3>Project 4 Placeholder</h3>
     View: [link]
     Github: [link]
 
@@ -60,19 +60,19 @@
 
 
     <h2>In 2+ sentences describe who you are and what you do.</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>I work for an industrial supply company as a strategy and operations manager. I am responsible for finding ways to improve our customer experience and running the Sales Operations department.</p>
 
     <h2>Why are you taking this course?</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>I'm taking this course because I've always had a lot of ideas for web projects but have never gone forward with them. A big reason I haven't moved forward is with my lack of experience with dynamic web applications. </p>
 
     <h2>What previous experience do you have with programming?</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>I was an information systems major in college so I do have some web based development experience but it's been years since I've coded anything. I have taken intermediate level courses for Java in the past.</p>
 
     <h2>Are you working on a Mac, PC, or some other platform?</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>I'm mostly working on a Mac though I have a PC at home.</p>
 
     <h2>Anything else we should know?</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>I'm really excited for the course! However, I'll be out of the country starting tomorrow until October 2nd so I'm a bit unsure how P2 will work for me.</p>
 
 </div>
 
